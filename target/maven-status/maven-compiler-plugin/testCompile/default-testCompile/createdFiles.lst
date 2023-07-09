@@ -1,0 +1,7 @@
+com\regression\TestBrowser.class
+com\testrun\LoginTestRun.class
+com\regression\NewTest.class
+com\javaifElse\practice\JavaifElsePractice.class
+com\regression\CucumberRunner.class
+com\regression\SmokeTest.class
+com\regression\SmokeTestOnlineBanking.class
